@@ -4,7 +4,8 @@
 
 #['Country', 'Energy Supply', 'Energy Supply per Capita', '% Renewable]
 
-#Convert Energy Supply to gigajoules (Note: there are 1,000,000 gigajoules in a petajoule). For all countries which have missing data (e.g. data with "...") make sure this is reflected as np.NaN values.
+#Convert Energy Supply to gigajoules (Note: there are 1,000,000 gigajoules in a petajoule). 
+#For all countries which have missing data (e.g. data with "...") make sure this is reflected as np.NaN values.
 
 #Rename the following list of countries (for use in later questions):
 
